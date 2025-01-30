@@ -1,7 +1,4 @@
 ## Opa! me chamo Henrique
-
-Here are some ideas to get you started:
-
 - 🔭 Pretendo trabalhar com front-end
 - 🌱 Estudando HTML e CSS
 - 😄 Pronouns: ele/dele
