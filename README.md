@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**henriquexcj/henriquexcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Opa! me chamo Henrique
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Pretendo trabalhar com front-end
+- 🌱 Estudando HTML e CSS
+- 😄 Pronouns: ele/dele
+- ⚡ Fun fact: Exaustão não é uma questão do corpo, mas da mente. Em outras palavras, um bocejo é um arroto da alma depois de comer muito tédio.
+
+<div>
+  <a href="https://github.com/henriquexcj"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquexcj&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquexcj&layout=compact&langs_count=16&theme=nightowl"/>
+
+</div>
