@@ -1,8 +1,9 @@
 ## Opa! me chamo Henrique
-- 🔭 Pretendo trabalhar com front-end
-- 🌱 Estudando HTML e CSS
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: Exaustão não é uma questão do corpo, mas da mente. Em outras palavras, um bocejo é um arroto da alma depois de comer muito tédio.
+- 🔭 Querendo trabalhar com front-end.
+- 🌱 Estudando C Sharp.
+- 😄 Pronomes: ele/dele.
+- ⚡ Fato divertido: Exaustão não é uma questão do corpo, mas da mente. Em outras palavras, um bocejo é um arroto da alma depois de comer muito tédio.
+- 🧐 Tecnologias: HTML e CSS.
 
 <div>
   <a href="https://github.com/henriquexcj"></a>
