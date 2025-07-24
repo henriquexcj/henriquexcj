@@ -1,5 +1,5 @@
 ## Hello! My name is Henrique
-- 🔭 I to want work with front-end.
+- 🔭 I to want work with technology.
 - 🌱 I'm learning C Sharp.
 - 😄 Pronouns: he/him.
 - ⚡ Fun Fact: Exaustão não é uma questão do corpo, mas da mente. Em outras palavras, um bocejo é um arroto da alma depois de comer muito tédio.
