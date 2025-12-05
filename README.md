@@ -1,9 +1,9 @@
 ## Hello! My name is Henrique
-- 🔭 I to want work with technology.
-- 🌱 I'm learning C Sharp.
+- 🔭 I to want work with technology, how Front-End Developer.
+- 🌱 I'm learning JavaScript.
 - 😄 Pronouns: he/him.
 - ⚡ Fun Fact: Exaustão não é uma questão do corpo, mas da mente. Em outras palavras, um bocejo é um arroto da alma depois de comer muito tédio.
-- 🧐 Technologies: HTML e CSS.
+- 🧐 Technologies: HTML, CSS, JavaScript and C#.
 
 <div>
   <a href="https://github.com/henriquexcj"></a>
